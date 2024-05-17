@@ -10,10 +10,12 @@
 </head>
 <body>
    <header>
+        <style>
+            background-color: #424E61;
+        
+             </style>
    <h1></h1>
-   <background-color: #424E61;
-   color: white
-    <ul>
+   <ul>
         <li></li>
         <li></li>
 
@@ -23,3 +25,5 @@
 
 </body>
 </html>
+
+
